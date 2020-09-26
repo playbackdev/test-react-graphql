@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b68fcc1ec4b616e3055adf8d176d8c50",
+    "revision": "cee3a73a402497c407de255b2f8eed91",
     "url": "/test-react-graphql/index.html"
   },
   {
-    "revision": "f361546db5ce767f4e61",
+    "revision": "05d1c305219f3db57214",
     "url": "/test-react-graphql/static/css/main.25d6df6f.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/test-react-graphql/static/js/2.735414d8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f361546db5ce767f4e61",
-    "url": "/test-react-graphql/static/js/main.437e0a12.chunk.js"
+    "revision": "05d1c305219f3db57214",
+    "url": "/test-react-graphql/static/js/main.70df40a0.chunk.js"
   },
   {
     "revision": "2e54985525a95596c41f",
