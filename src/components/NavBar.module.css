@@ -1,0 +1,50 @@
+.NavBar {
+    padding: 0 10px 0 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid rgb(80,80,80);
+}
+
+.Header {
+    flex: 1;
+    margin: 10px;
+}
+
+.LogoutButton {
+    margin-left: 10px;
+    border: 1px solid rgb(120, 20, 20);
+    background-color: rgb(120, 20, 20);
+    box-shadow: 0 1px 3px rgb(120, 20, 20);
+}
+
+.LogoutButton:hover {
+    border: 1px solid rgb(170, 20, 20);
+    background-color: rgb(170, 20, 20);
+    box-shadow: 0 1px 3px rgb(170, 20, 20);
+}
+
+.LogoutButton:active {
+    border: 1px solid rgb(50, 20, 20);
+    background-color: rgb(50, 20, 20);
+    box-shadow: 0 0 1px rgb(50, 20, 20);
+}
+
+.NavBarButton {
+    border: 1px solid rgb(20, 20, 20);
+    background-color: rgb(40, 40, 40);
+    box-shadow: 0 1px 3px rgb(20, 20, 20);
+}
+
+.NavBarButton:hover {
+    background-color: rgb(50, 50, 50);
+    border: 1px solid rgb(50, 50, 50);
+    box-shadow: 0 1px 3px rgb(50, 50, 50);
+}
+
+.NavBarButton:active {
+    background-color: rgb(20, 20, 20);
+    border: 1px solid rgb(20, 20, 20);
+    box-shadow: 0 0 1px rgb(20, 20, 20);
+}

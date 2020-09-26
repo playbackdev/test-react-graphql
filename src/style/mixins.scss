@@ -1,0 +1,7 @@
+$screen-phone: 640px;
+
+@mixin mq-phone {
+  @media (max-width: $screen-phone) {
+    @content;
+  }
+}

@@ -1,0 +1,35 @@
+@import '../style/elements';
+
+.PostCard {
+    @include Card;
+}
+
+.UserImage {
+    @include CardPhoto;
+}
+
+.PostContent {
+    @include CardContent;
+    margin: 10px;
+}
+
+.Author {
+    margin: 0 0 10px 0;
+}
+
+.PostTitle {
+    margin: 0 0 5px 0;
+}
+
+.PostBody {
+    margin: 0;
+}
+
+.PostCard:first-child {
+    margin-top: 0;
+}
+
+.PostCard:hover {
+    background-color: rgb(50,50,55);
+    cursor: pointer;
+}

@@ -1,0 +1,35 @@
+body {
+    background-color: rgb(30, 30, 30);
+}
+
+* {
+    color: white;
+}
+
+
+button {
+    padding: 5px;
+    border-radius: 5px;
+    color: white;
+    border: 1px solid rgb(20, 120, 20);
+    background-color: rgb(20, 120, 20);
+    box-shadow: 0 1px 3px rgb(20, 120, 20);
+    transition: all 0.3s;
+}
+
+button:hover {
+    border: 1px solid rgb(20, 150, 20);
+    background-color: rgb(20, 150, 20);
+    box-shadow: 0 1px 3px rgb(20, 150, 20);
+}
+
+button:active {
+    border: 1px solid rgb(20, 50, 20);
+    background-color: rgb(20, 50, 20);
+    box-shadow: 0 0 1px rgb(20, 50, 20);
+}
+
+.app-wrapper {
+    max-width: 1200px;
+    margin: auto;
+}
