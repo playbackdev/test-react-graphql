@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/test-react-graphql/static/css/main.25d6df6f.chunk.css",
-    "main.js": "/test-react-graphql/static/js/main.eefab54a.chunk.js",
-    "main.js.map": "/test-react-graphql/static/js/main.eefab54a.chunk.js.map",
+    "main.js": "/test-react-graphql/static/js/main.437e0a12.chunk.js",
+    "main.js.map": "/test-react-graphql/static/js/main.437e0a12.chunk.js.map",
     "runtime-main.js": "/test-react-graphql/static/js/runtime-main.0cc0530b.js",
     "runtime-main.js.map": "/test-react-graphql/static/js/runtime-main.0cc0530b.js.map",
-    "static/js/2.a8678ce5.chunk.js": "/test-react-graphql/static/js/2.a8678ce5.chunk.js",
-    "static/js/2.a8678ce5.chunk.js.map": "/test-react-graphql/static/js/2.a8678ce5.chunk.js.map",
+    "static/js/2.735414d8.chunk.js": "/test-react-graphql/static/js/2.735414d8.chunk.js",
+    "static/js/2.735414d8.chunk.js.map": "/test-react-graphql/static/js/2.735414d8.chunk.js.map",
     "index.html": "/test-react-graphql/index.html",
-    "precache-manifest.e36ad3014b1ea8a991353b929469cb88.js": "/test-react-graphql/precache-manifest.e36ad3014b1ea8a991353b929469cb88.js",
+    "precache-manifest.3c2da628d2669a2b3a0b7d940a651c7d.js": "/test-react-graphql/precache-manifest.3c2da628d2669a2b3a0b7d940a651c7d.js",
     "service-worker.js": "/test-react-graphql/service-worker.js",
     "static/css/main.25d6df6f.chunk.css.map": "/test-react-graphql/static/css/main.25d6df6f.chunk.css.map",
-    "static/js/2.a8678ce5.chunk.js.LICENSE.txt": "/test-react-graphql/static/js/2.a8678ce5.chunk.js.LICENSE.txt",
+    "static/js/2.735414d8.chunk.js.LICENSE.txt": "/test-react-graphql/static/js/2.735414d8.chunk.js.LICENSE.txt",
     "static/media/user-icon.png": "/test-react-graphql/static/media/user-icon.7af4ad35.png"
   },
   "entrypoints": [
     "static/js/runtime-main.0cc0530b.js",
-    "static/js/2.a8678ce5.chunk.js",
+    "static/js/2.735414d8.chunk.js",
     "static/css/main.25d6df6f.chunk.css",
-    "static/js/main.eefab54a.chunk.js"
+    "static/js/main.437e0a12.chunk.js"
   ]
 }
