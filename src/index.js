@@ -4,19 +4,18 @@ import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
 import { ApolloClient, InMemoryCache, ApolloProvider } from '@apollo/client';
-import {BrowserRouter} from "react-router-dom";
+import {HashRouter} from "react-router-dom";
 
 const client = new ApolloClient({
   uri: 'https://api.graphqlplaceholder.com/',
   cache: new InMemoryCache()
 });
-
+/*Лучше использовать BrowserRouter. Но для корректной работы деплоя на gh-pages пришлось использовать HashRouter.*/
 ReactDOM.render(
   <ApolloProvider client={client}>
-
-      <BrowserRouter>
+      <HashRouter>
           <App />
-      </BrowserRouter>
+      </HashRouter>
   </ApolloProvider>,
   document.getElementById('root')
 );
